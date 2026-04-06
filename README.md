@@ -1,4 +1,4 @@
-![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/user-attachments/assets/c48429ac-6e15-4f01-bccb-0537d2d7be06)
+
 
 import { motion } from "framer-motion";
 import {
@@ -516,6 +516,7 @@ export default function BebePortfolio() {
 }
 
 
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/38dab773-a097-4865-a0ae-22dfc6608061)
 
 
 
