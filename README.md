@@ -516,7 +516,6 @@ export default function BebePortfolio() {
 }
 
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/38dab773-a097-4865-a0ae-22dfc6608061)
 
 
 
