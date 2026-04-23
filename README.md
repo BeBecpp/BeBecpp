@@ -205,3 +205,4 @@ I prefer **hands-on experience over passive study**.
 
      
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/c479bbd2-9d24-4f94-9e9a-b489b1f12a77)
+github-snake.svg
