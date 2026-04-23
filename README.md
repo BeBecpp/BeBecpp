@@ -205,4 +205,5 @@ I prefer **hands-on experience over passive study**.
 
      
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/c479bbd2-9d24-4f94-9e9a-b489b1f12a77)
-github-snake.svg
+[github-snake.svg
+](https://github.com/BeBecpp/BeBecpp/blob/f61c47de5c086bbb78d6ab1055a2dff863753301/github-snake.svg)
