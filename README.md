@@ -370,18 +370,6 @@ Preparing for international hackathons and builder communities like AdventureX.
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## What I Want to Build Next
 
