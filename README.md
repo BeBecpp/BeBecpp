@@ -1,275 +1,385 @@
-# Hi, I'm Bayarbayasgalan Enkhtulga — BeBe / Nero_404
+<div align="center">
 
-**High school AI & cybersecurity builder from Mongolia 🇲🇳**
+# Hi, I'm Bayarbayasgalan Enkhtulga  
+### BeBe / Nero_404
 
-I build practical AI tools, computer vision experiments, CTF/security utilities, and interactive learning products.
+**High School AI & Cybersecurity Builder from Mongolia 🇲🇳**
 
-I am still early in my journey, but I learn fast by building real projects, joining competitions, solving technical challenges, and improving every project step by step.
+I build AI products, computer vision experiments, CTF tools, and interactive web applications.
+
+<br/>
+
+<a href="https://github.com/BeBecpp">
+  <img src="https://img.shields.io/badge/GitHub-BeBecpp-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://bebecpp.github.io/my_blog/">
+  <img src="https://img.shields.io/badge/Blog-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-Builder-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-CTF-00B894?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-MediaPipe-FD9644?style=flat-square" />
+<img src="https://img.shields.io/badge/From-Mongolia-E84118?style=flat-square" />
+
+</div>
 
 ---
 
-## Who I Am
+## About Me
 
-I am a high school student from Darkhan, Mongolia, focused on:
+I am a high school student from Darkhan, Mongolia, focused on building practical technology projects.
 
-- AI engineering
-- Cybersecurity / CTF
-- Competitive programming
-- Computer vision
-- Backend-connected AI products
+I am still early in my journey, but I learn fast by building real projects, joining competitions, solving technical challenges, and improving every project step by step.
+
+<table>
+<tr>
+<td width="50%">
+
+### What I Build
+
+- AI assistants
+- Computer vision apps
+- CTF/security tools
+- Learning platforms
+- Backend-connected prototypes
 - Interactive web applications
+
+</td>
+<td width="50%">
+
+### What I Care About
+
+- Useful AI products
+- Security-minded engineering
+- Clean user experience
 - Real-world problem solving
+- Hackathons and builder communities
+- Tools for students and local users
 
-My goal is not only to use technology, but to understand how useful systems are designed, built, tested, and improved.
-
-I am currently growing as a builder by working on AI products, security tools, creative coding projects, and hackathon-ready prototypes.
+</td>
+</tr>
+</table>
 
 ---
 
 ## My Builder Story
 
-I became interested in technology at a young age because I was surrounded by computers and problem-solving. At first, I learned programming through C++ and algorithmic thinking. Later, I started exploring AI, cybersecurity, web development, and product building.
+I started with programming and algorithmic problem solving, then became interested in AI, cybersecurity, web development, and product building.
 
 Now I try to learn by shipping projects.
 
-Some of my projects are small experiments. Some are serious prototypes. But each one teaches me something important: how to design better systems, how to write cleaner code, how to explain ideas clearly, and how to build tools that other people could actually use.
+Some of my projects are experiments. Some are serious prototypes. But each one teaches me something important: how to design better systems, write cleaner code, explain ideas clearly, and build tools that people could actually use.
 
 I am not the most experienced builder yet, but I am consistent, curious, and serious about improving.
 
 ---
 
-## What I Bring to Hackathons
-
-- Fast learning and strong curiosity
-- AI + backend project experience
-- CTF/security mindset
-- Product thinking from building real prototypes
-- Ability to turn ideas into working demos
-- A different perspective as a young builder from Mongolia
-
-I enjoy building with people who are motivated, creative, and willing to learn fast.
-
----
-
 ## Featured Projects
 
-### HuruInk — Air Drawing with Hand Gestures
+<table>
+<tr>
+<td width="50%">
 
-**Draw in the air.**
+## HuruInk
 
-HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures. It tracks the user's hand through the webcam and turns finger movement into strokes on the canvas.
+**Air drawing with hand gestures**
+
+HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures.
+
+It tracks the user's hand through the webcam and turns finger movement into strokes on the canvas.
 
 **Why I built it:**  
 I wanted to build something visual, fun, and technically challenging. HuruInk helped me explore computer vision, gesture-based interaction, real-time tracking, and creative user interfaces.
 
-**Key features:**
+**Tech Stack**
 
-- Webcam-based hand tracking
-- Index finger cursor tracking
-- Pinch-to-draw gesture
-- Smooth canvas drawing
-- Brush color and size controls
-- Undo, clear, and PNG export
-- Fully client-side browser experience
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Canvas-000000?style=flat-square" />
 
-**Tech stack:** React, TypeScript, Vite, Tailwind CSS, MediaPipe, HTML Canvas  
-**GitHub:** https://github.com/BeBecpp/HuruInk
+<br/><br/>
 
----
+<a href="https://github.com/BeBecpp/HuruInk">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-### TaliinAtlas — AI Learning Map Platform
+</td>
+<td width="50%">
 
-**Turn confusion into a map.**
+## TaliinAtlas
 
-TaliinAtlas is an AI-powered learning map platform that turns confusing topics, notes, and learning goals into interactive visual knowledge maps.
+**AI learning map platform**
+
+TaliinAtlas turns confusing topics, notes, and learning goals into interactive visual knowledge maps.
 
 Instead of giving users another long text explanation, it helps them understand what to learn first, what depends on what, and how their progress grows.
 
 **Why I built it:**  
-Many students do not fail because they lack information. They fail because information is unstructured, overwhelming, and hard to prioritize. I built TaliinAtlas to make self-learning feel more visual, structured, and motivating.
+Many students do not fail because they lack information. They fail because information is unstructured, overwhelming, and hard to prioritize.
 
-**Key features:**
+**Tech Stack**
 
-- Interactive knowledge map
-- Concept nodes with lessons, examples, and quizzes
-- Unlock system based on learning progress
-- Fog-of-knowledge idea to represent confusion
-- Local save system
-- Custom local AI-style generation logic
-- AI-ready product architecture
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square" />
 
-**Tech stack:** Next.js, TypeScript, Tailwind CSS, React Flow, Framer Motion, Zod  
-**GitHub:** https://github.com/BeBecpp/TaliinAtlas
+<br/><br/>
 
----
+<a href="https://github.com/BeBecpp/TaliinAtlas">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-### Store AI Assistant — AI Chatbot for Small Online Stores
+</td>
+</tr>
+</table>
 
-Store AI Assistant is an embeddable AI chatbot for small online stores. It is designed to answer customer questions using product catalog data instead of guessing or inventing information.
+<table>
+<tr>
+<td width="50%">
+
+## Store AI Assistant
+
+**AI chatbot for small online stores**
+
+Store AI Assistant is an embeddable AI chatbot for small online stores. It answers customer questions using product catalog data instead of guessing or inventing information.
 
 **Why I built it:**  
 Small online stores often cannot provide 24/7 customer support. I wanted to build a simple AI assistant that can help customers find product information while staying grounded in real store data.
 
-**Key features:**
+**Tech Stack**
 
-- FastAPI backend
-- Embeddable JavaScript chat widget
-- Catalog-grounded answers
-- Product search logic
-- Backend validation
-- Safe fallback behavior
-- Optional AI provider support
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-API-6C63FF?style=flat-square" />
 
-**Tech stack:** Python, FastAPI, JavaScript, Docker, LLM APIs, validation logic  
-**GitHub:** https://github.com/BeBecpp/Store_AI_Assistant
+<br/><br/>
 
----
+<a href="https://github.com/BeBecpp/Store_AI_Assistant">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-### Aura Guide — Assistive Technology Concept
+</td>
+<td width="50%">
+
+## Aura Guide
+
+**Assistive technology concept**
 
 Aura Guide is a smart assistive technology concept for visually impaired users. It explores how sensors, Bluetooth communication, mobile software, and voice feedback can help users detect obstacles around them.
 
 **Why I built it:**  
 I wanted to explore technology that can help solve real-world accessibility problems, especially with local language support for Mongolian users.
 
-**Key features:**
+**Tech Stack**
 
-- Obstacle detection concept
-- Multi-direction warning logic
-- Bluetooth communication idea
-- Mongolian voice feedback
-- Modular service-based structure
-- Accessibility-focused design
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice_Feedback-00B894?style=flat-square" />
 
-**Tech stack:** Python, Bluetooth/audio logic, service modules, accessibility design  
-**GitHub:** https://github.com/BeBecpp/Aura_Guide
+<br/><br/>
 
----
+<a href="https://github.com/BeBecpp/Aura_Guide">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-### MoodMeal AI — Mongolian Recipe Chatbot
+</td>
+</tr>
+</table>
 
-MoodMeal AI is a recipe chatbot that recommends meals based on mood, ingredients, weather, meal time, and serving count.
+<table>
+<tr>
+<td width="50%">
+
+## MoodMeal AI
+
+**Mongolian recipe chatbot**
+
+MoodMeal AI recommends meals based on mood, ingredients, weather, meal time, and serving count.
 
 **Why I built it:**  
-I wanted to build an AI app that feels useful for local users, not just a generic chatbot. MoodMeal focuses on personalized meal recommendations in a way that can fit Mongolian users and daily home cooking.
+I wanted to build an AI app that feels useful for local users, not just a generic chatbot. MoodMeal focuses on personalized meal recommendations for daily home cooking.
 
-**Key features:**
+**Tech Stack**
 
-- Mood-based meal recommendation
-- Ingredient-aware suggestions
-- Weather and meal-time context
-- Recipe chatbot interface
-- Local user-focused idea
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/Recommendation-FF7675?style=flat-square" />
 
-**Tech stack:** Flask, SQLite, Gemini AI, recipe data, recommendation logic  
-**GitHub:** https://github.com/BeBecpp/MoodMeal
+<br/><br/>
 
----
+<a href="https://github.com/BeBecpp/MoodMeal">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-### Crypto Tool — CTF Cryptography Helper
+</td>
+<td width="50%">
+
+## Crypto Tool
+
+**CTF cryptography helper**
 
 Crypto Tool is a beginner-friendly CTF cryptography toolkit for solving common decoding and crypto challenges.
 
 **Why I built it:**  
 As a CTF player, I wanted a simple tool that helps with repeated crypto workflows and makes challenge solving faster.
 
-**Key features:**
+**Tech Stack**
 
-- Base64, Hex, Binary, URL decoding
-- ROT13, Caesar, Morse, Bacon, Atbash helpers
-- XOR tools
-- Frequency analysis
-- Classical cipher utilities
-- RSA helper features for CTF-style weak parameters
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/CTF-00B894?style=flat-square" />
 
-**Tech stack:** Python, Streamlit, cryptography utilities  
-**GitHub:** https://github.com/BeBecpp/Crypto-tool
+<br/><br/>
+
+<a href="https://github.com/BeBecpp/Crypto-tool">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skills
+
+<table>
+<tr>
+<td width="33%">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+</td>
+<td width="33%">
+
+### AI / Product
+
+<img src="https://img.shields.io/badge/LLM_Apps-6C63FF?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/AI_Assistants-0984E3?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Computer_Vision-FD9644?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/CNN_Basics-2D98DA?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Product_Thinking-00B894?style=flat-square" />
+
+</td>
+<td width="33%">
+
+### Web / Security
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />
+<br/>
+<img src="https://img.shields.io/badge/CTF-00B894?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Cybersecurity-2D3436?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-### Captain — NOtFound_404 CTF Team
+<table>
+<tr>
+<td width="35%">
+
+### NOtFound_404
+
+**CTF Team Captain**
+
+</td>
+<td width="65%">
 
 I lead a junior CTF team focused on cybersecurity challenges, technical problem solving, and competition practice.
 
-I work on:
+CTF helped me build a stronger security mindset. It also taught me to debug under pressure, break complex problems into smaller parts, and collaborate with teammates.
 
-- Team coordination
-- Challenge strategy
-- Web security basics
-- Cryptography
-- CTF-style problem solving
-- Helping teammates improve
-
-CTF helped me build a stronger security mindset. It also taught me to think carefully, debug under pressure, and break complex problems into smaller steps.
-
----
-
-## Technical Skills
-
-### Languages
-
-- Python
-- C++
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-
-### AI / Machine Learning
-
-- LLM API integration
-- Prompt engineering basics
-- AI product architecture
-- Catalog-grounded AI responses
-- Validation and fallback logic
-- Computer vision experiments
-- CNN / image classification basics
-
-### Web / Product Development
-
-- React
-- Next.js
-- Flask
-- FastAPI
-- SQLite
-- REST API basics
-- HTML Canvas
-- Responsive UI
-- Interactive frontend prototypes
-
-### Cybersecurity / CTF
-
-- Cryptography
-- Web security basics
-- CTF challenge solving
-- Security-minded debugging
-- Problem decomposition
-- Team-based competition practice
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker basics
-- Streamlit
-- Vite
-- Tailwind CSS
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Focus
 
-Right now, I am improving in:
+<table>
+<tr>
+<td width="25%" align="center">
 
-- Building AI products with real backend logic
-- Creating better project demos and documentation
-- Computer vision and gesture-based interfaces
-- CTF and cybersecurity fundamentals
-- Writing cleaner TypeScript and Python code
-- Preparing for international hackathons like AdventureX
+### AI Products
+
+Building AI tools with backend logic, validation, and useful user experience.
+
+</td>
+<td width="25%" align="center">
+
+### Computer Vision
+
+Exploring gesture-based interfaces, hand tracking, and creative coding.
+
+</td>
+<td width="25%" align="center">
+
+### Cybersecurity
+
+Practicing CTF, cryptography, web security basics, and problem solving.
+
+</td>
+<td width="25%" align="center">
+
+### Hackathons
+
+Preparing for international hackathons and builder communities like AdventureX.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -277,50 +387,14 @@ Right now, I am improving in:
 
 I want to build projects that combine:
 
-- AI
-- useful product design
-- strong backend logic
-- security awareness
-- interactive user experience
-
-At hackathons, I want to work on ideas that are not only technically interesting, but also useful for real people.
-
-Some areas I care about:
-
-- AI assistants for small businesses
-- Learning tools for students
-- Assistive technology
-- Computer vision interfaces
-- Security-focused AI tools
-- Tools for Mongolian users and local problems
-
----
-
-## Why I Build
-
-I do not want to only watch tutorials or use AI tools passively.
-
-I want to understand how real systems work:
-
-- how users interact with products
-- how data flows through a system
-- how backend logic supports AI
-- how models can fail
-- how validation improves trust
-- how interfaces make technology easier to use
-
-Every project I build is a step toward becoming a stronger engineer and product builder.
-
----
-
-## Links
-
-- GitHub: https://github.com/BeBecpp
-- Blog: https://bebecpp.github.io/my_blog/
-- HuruInk: https://github.com/BeBecpp/HuruInk
-- TaliinAtlas: https://github.com/BeBecpp/TaliinAtlas
-- Store AI Assistant: https://github.com/BeBecpp/Store_AI_Assistant
-- Crypto Tool: https://github.com/BeBecpp/Crypto-tool
+| Area | Why it matters |
+|---|---|
+| AI assistants | To help users solve practical problems faster |
+| Learning tools | To make self-learning more structured and visual |
+| Assistive technology | To build tools that can help real people |
+| Computer vision interfaces | To explore more natural ways to interact with software |
+| Security-focused tools | To build safer and more reliable systems |
+| Local user-focused apps | To create products that make sense for Mongolian users |
 
 ---
 
@@ -332,37 +406,8 @@ I want to join international hackathons and builder communities to challenge mys
 
 I may not have the most experience yet, but I have curiosity, consistency, and the willingness to work hard.
 
+<div align="center">
 
-<p align="center">
-  <i>“Built from curiosity, driven by discipline.”</i>
-</p>
+### Built from curiosity. Improved through practice.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/c479bbd2-9d24-4f94-9e9a-b489b1f12a77)
-<img width="880" height="192" alt="github-snake" src="https://github.com/user-attachments/assets/1e12ebd3-42d2-4853-a81f-b22821401441" />
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+</div>
