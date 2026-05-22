@@ -1,178 +1,128 @@
+# Hi, I'm Bayarbayasgalan Enkhtulga — BeBe / Nero_404
 
+**High school AI & cybersecurity builder from Mongolia 🇲🇳**
 
-<h1 align="center">Hi 👋, I'm Bayarbayasgalan Enkhtulga</h1>
-<h3 align="center">BeBe / nero_404</h3>
-<h4 align="center">AI Engineering • Cybersecurity • Competitive Programming</h4>
-
-<p align="center">
-  <a href="https://github.com/bebecpp">
-    <img src="https://img.shields.io/github/followers/bebecpp?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/bebecpp">
-    <img src="https://img.shields.io/github/stars/bebecpp?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-  <a href="mailto:bayarbayasgalan.bb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I build practical AI tools, CTF/security utilities, and small product prototypes.  
+I am still learning, but I learn best by building real projects, joining competitions, and improving step by step.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a high school student from **Darkhan, Mongolia**, currently studying at **Secondary School No.31**.  
-I am focused on developing my skills in:
+I am a high school student from Darkhan, Mongolia, focused on:
 
-- **Artificial Intelligence Engineering**
-- **Cybersecurity / CTF**
-- **Competitive Programming**
+- AI engineering
+- Cybersecurity / CTF
+- Competitive programming
+- Backend-connected AI applications
+- Real-world product building
 
-My journey started with curiosity and has grown into a structured effort through consistent practice, competitions, and real-world problem solving.
-
----
-
-## 🚀 Background
-
-I was introduced to technology at a young age through my father, who works in IT.  
-That early exposure made me comfortable with computers and sparked a strong interest in systems and problem solving.
-
-I started programming around **4 years ago**, beginning with **C++** and algorithmic thinking.  
-Since then, I have been improving through:
-
-- self-learning
-- competitions
-- project building
-- practical technical exploration
-
-What started as curiosity has now become a clear direction.
+My goal is to grow as a builder by creating useful projects, joining hackathons, and learning from stronger technical communities.
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
 
-- **AI Engineering**
-- **Cybersecurity (CTF)**
-- **Competitive Programming (Python / C++)**
+### Store AI Assistant
+An embeddable AI chatbot for small online stores.  
+It uses a FastAPI backend, catalog-grounded answers, product search, validation, and optional AI providers.
 
-I am currently participating in a **national AI Engineering competition in Mongolia**, where I advanced to the **second stage**.
+**Why I built it:**  
+Small online stores often cannot answer customer questions 24/7. I wanted to build a simple AI support assistant that can answer based on real product data instead of inventing information.
 
-I am also aiming to continue growing in this field and potentially join strong technical environments such as **NeoAI**.
+**Tech:** FastAPI, Python, JavaScript, Docker, LLM APIs, validation logic  
+**GitHub:** https://github.com/BeBecpp/Store_AI_Assistant
 
 ---
 
-## 🧠 Experience
+### Aura Guide
+An assistive technology concept for visually impaired users.  
+It focuses on obstacle detection, Bluetooth communication, warning logic, and Mongolian voice feedback.
 
-### Captain — NOTFOUND_404 Team
-Leading a team focused on **CTF challenges** and technical problem solving.  
-Responsible for coordination, decision-making, and strategy.
+**Why I built it:**  
+I wanted to explore how software, sensors, and accessibility ideas can help solve real-world problems.
 
-### CTF Participant
-Experience in:
+**Tech:** Python, service modules, Bluetooth/audio logic, accessibility design  
+**GitHub:** https://github.com/BeBecpp/Aura_Guide
 
-- Web Security
+---
+
+### MoodMeal AI
+A Mongolian AI recipe chatbot that recommends meals based on mood, ingredients, weather, meal time, and serving count.
+
+**Why I built it:**  
+I wanted to build an AI app that feels useful for local users, not just a generic chatbot.
+
+**Tech:** Flask, SQLite, Gemini AI, recipe recommendation logic  
+**GitHub:** https://github.com/BeBecpp/MoodMeal
+
+---
+
+### Crypto Tool
+A beginner-friendly CTF cryptography toolkit for common decoding and crypto challenge workflows.
+
+**Why I built it:**  
+I built it to support faster CTF solving and to practice cryptography concepts through tools.
+
+**Tech:** Python, Streamlit, cryptography helpers, CTF utilities  
+**GitHub:** https://github.com/BeBecpp/Crypto-tool
+
+---
+
+## Experience
+
+### Captain — NOtFound_404 CTF Team
+
+I lead a junior CTF team focused on cybersecurity challenges, problem solving, and competition practice.
+
+Areas I practice:
+
+- Web security basics
 - Cryptography
-- General challenge-based problem solving
-
-### AI Engineering (Junior Level)
-Practical exposure to AI concepts through competitions and self-learning.  
-Continuously improving understanding of models, problem solving, and data-related thinking.
-
-### Algorithmic Problem Solving
-Strong foundation in logic and problem solving through consistent practice.
-
-### Front-End Development
-Experience building simple web interfaces using:
-
-- HTML
-- CSS
-- JavaScript
-
-### Game Development
-Experience working on small-scale game projects, focusing on logic implementation and gameplay mechanics.
+- CTF strategy
+- Challenge-based problem solving
+- Team coordination
 
 ---
 
-## 📌 Projects
+## Current Focus
 
-### 🖼 CNN Image Classification
-Developed an image classification model using **Convolutional Neural Networks (CNN)**.  
-Focused on data preprocessing, model training, and evaluation.
+I am currently improving in:
 
-🔗 GitHub: [CNN-Image-Classification](https://github.com/BeBecpp/CNN-Image-Classification)
-
-### 🌐 Front-End Web Project
-Built a web interface using **HTML, CSS, and JavaScript**, focusing on layout structure, responsiveness, and user interaction.
-
-### 🎮 Game Development Project
-Created a small-scale game, implementing core mechanics and gameplay logic.
-
-### 🧩 Algorithm Practice
-Solved a variety of algorithmic problems to improve:
-
-- logical thinking
-- coding efficiency
-- problem-solving speed
+- Building AI assistants with backend logic
+- LLM integration and validation
+- FastAPI / Flask applications
+- CTF and cybersecurity fundamentals
+- Writing better documentation for my projects
+- Preparing for international hackathons like AdventureX
 
 ---
 
-## 🛠 Technical Skills
+## Why I Build
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
-</p>
+I do not want to only use AI tools.  
+I want to understand how useful intelligent systems are designed:
 
-### Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+- user input
+- backend logic
+- data retrieval
+- model behavior
+- validation
+- user-facing output
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-</p>
+I am not the most experienced builder yet, but I am consistent, curious, and serious about improving.
 
 ---
 
-## 📚 Learning Approach
+## Links
 
-I focus on **practical learning** through:
-
-- solving problems
-- participating in competitions
-- building small projects
-
-I prefer **hands-on experience over passive study**.
+- GitHub: https://github.com/BeBecpp
+- Blog: https://bebecpp.github.io/my_blog/
+- Team: NOtFound_404
 
 ---
 
-## 🏆 Goals
-
-- Strengthen expertise in **AI Engineering** and **Cybersecurity**
-- Participate in higher-level **international competitions**
-- Join a strong technical team and contribute to **real projects**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bebecpp&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebecpp&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebecpp&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Contact
-
-- GitHub: [github.com/bebecpp](https://github.com/bebecpp)
-- Email: **bayarbayasgalan.bb@gmail.com**
-
----
+> Built from curiosity, improved through practice.
 
 <p align="center">
   <i>“Built from curiosity, driven by discipline.”</i>
