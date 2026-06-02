@@ -1,61 +1,188 @@
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeBecpp&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="BeBecpp Contribution Activity" />
+# Hi, I'm Bayarbayasgalan Enkhtulga
 
-<br/>
+### BeBe / Nero_404
 
-# BeBecpp / Nero_404
+**AI & Cybersecurity Builder from Mongolia**
 
-### AI · Cybersecurity · Frontend
+I build AI products, computer vision experiments, CTF tools, and interactive web applications.
 
-I build practical AI tools, security utilities, and clean web projects.
-
-[Portfolio](https://bebecpp.github.io/my_blog/) · [Projects](https://github.com/BeBecpp?tab=repositories)
+[Portfolio](https://bebecpp.github.io/my_blog/) · [GitHub](https://github.com/BeBecpp) · [Team](https://notfound404.asuu.app/)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I like building small but complete systems: idea, UI, logic, deployment, and README.
+I am focused on building practical technology projects and improving through real work.
 
-My focus is simple:
+I like projects that combine:
 
 - useful AI products
-- security and CTF tools
-- clean frontend interfaces
-- project-first execution
+- computer vision and interactive interfaces
+- CTF and security-minded engineering
+- clean frontend experiences
+- tools for students and local users
 
 ---
 
-## Skills
+## My Builder Story
 
-<div align="center">
+I started with programming and problem solving, then became more interested in AI, cybersecurity, web development, and product building.
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,fastapi,html,css,tailwind,cpp,git,github,linux,vscode" />
-
-</div>
-
-| Area | Stack |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| **AI / Backend** | Python, Flask, FastAPI, SQLite, REST APIs |
-| **Security** | CTF practice, cryptography helpers, scripting, web security basics |
-| **Workflow** | Git, GitHub, Linux, deployment, documentation |
+Now I learn by shipping projects. Some projects are experiments, some are serious prototypes, but each one helps me improve how I design, build, explain, and polish software.
 
 ---
 
 ## Featured Projects
 
-| Project | Area | Description |
-|---|---|---|
-| [TaliinAtlas](https://taliin-atlas.vercel.app/) | AI Learning | Visual learning maps for structured study |
-| [HuruInk](https://github.com/BeBecpp/HuruInk) | Computer Vision | Browser-based finger drawing with webcam tracking |
-| [SkillProof AI](https://skillproof-ai-9u61.onrender.com/) | AI Evidence | Turns GitHub work into skill proof |
-| [Store AI Assistant](https://github.com/BeBecpp/Store_AI_Assistant) | AI Assistant | Store chatbot based on product data |
-| [MoodMeal](https://github.com/BeBecpp/MoodMeal) | AI Recommendation | Recipe assistant using mood and ingredients |
-| [Crypto Tool](https://github.com/BeBecpp/Crypto-tool) | Security / CTF | Simple helper for cryptography challenges |
+### HuruInk
+
+**Air drawing with hand gestures**
+
+HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures and webcam tracking.
+
+**Why I built it:**  
+I wanted to build something visual, fun, and technically challenging while exploring hand tracking, real-time interaction, and creative UI.
+
+[Repository](https://github.com/BeBecpp/HuruInk)
+
+---
+
+### TaliinAtlas
+
+**AI learning map platform**
+
+TaliinAtlas turns confusing topics and learning goals into visual knowledge maps.
+
+**Why I built it:**  
+Many students do not fail because they lack information. They fail because information is unstructured and hard to prioritize.
+
+[Live Demo](https://taliin-atlas.vercel.app/)
+
+---
+
+### Store AI Assistant
+
+**AI chatbot for small online stores**
+
+Store AI Assistant is an AI chatbot that answers customer questions using product catalog data instead of guessing.
+
+**Why I built it:**  
+Small online stores need simple, useful support tools that can answer product questions clearly and consistently.
+
+[Repository](https://github.com/BeBecpp/Store_AI_Assistant)
+
+---
+
+### Aura Guide
+
+**Assistive technology concept**
+
+Aura Guide explores how sensors, Bluetooth communication, mobile software, and voice feedback can help visually impaired users detect obstacles.
+
+**Why I built it:**  
+I wanted to explore technology that can help solve real-world accessibility problems, especially with local language support.
+
+[Repository](https://github.com/BeBecpp/Aura_Guide)
+
+---
+
+### MoodMeal AI
+
+**Mongolian recipe chatbot**
+
+MoodMeal AI recommends meals based on mood, ingredients, weather, meal time, and serving count.
+
+**Why I built it:**  
+I wanted to build an AI app that feels useful for local users, not just a generic chatbot.
+
+[Repository](https://github.com/BeBecpp/MoodMeal)
+
+---
+
+### Crypto Tool
+
+**CTF cryptography helper**
+
+Crypto Tool is a beginner-friendly toolkit for solving common decoding and cryptography challenges.
+
+**Why I built it:**  
+As a CTF player, I wanted a simple tool that helps with repeated crypto workflows.
+
+[Repository](https://github.com/BeBecpp/Crypto-tool)
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeBecpp&theme=github-compact&hide_border=true&area=true&custom_title=BeBecpp%20Contribution%20Activity" alt="BeBecpp Contribution Activity" />
+
+</div>
+
+---
+
+## Skills
+
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+
+</div>
+
+### AI / Product
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,sqlite,react,nextjs" />
+
+</div>
+
+### Web / Security
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tailwind,git,github,linux,vscode,bash" />
+
+</div>
+
+---
+
+## Experience
+
+### NOtFound_404
+
+**CTF Team Captain**
+
+I lead a junior CTF team focused on cybersecurity challenges, technical problem solving, and competition practice.
+
+CTF helps me build a stronger security mindset, debug under pressure, break complex problems into smaller parts, and collaborate with teammates.
+
+---
+
+## Current Focus
+
+### AI Products
+
+Building AI tools with backend logic, validation, and useful user experience.
+
+### Computer Vision
+
+Exploring gesture-based interfaces, hand tracking, and creative browser interactions.
+
+### Cybersecurity
+
+Practicing CTF, cryptography, web security basics, and problem solving.
+
+### Hackathons
+
+Preparing for international hackathons and builder communities.
 
 ---
 
@@ -63,15 +190,17 @@ My focus is simple:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## Personal Statement
 
-**Build useful things. Keep them clean. Ship consistently.**
+I am still learning, but I am serious about building.
 
-</div>
+I want to keep improving by joining competitions, building useful projects, and learning from stronger people.
+
+### Built from curiosity. Improved through practice.
