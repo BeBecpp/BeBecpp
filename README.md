@@ -4,11 +4,29 @@
 
 ### BeBe / Nero_404
 
-**AI & Cybersecurity Builder from Mongolia**
+**AI Engineer · Cybersecurity Builder · Frontend Developer**
 
-I build AI products, computer vision experiments, CTF tools, and interactive web applications.
+I build practical AI tools, CTF/security utilities, computer vision experiments, and clean web applications.
 
-[Portfolio](https://bebecpp.github.io/my_blog/) · [GitHub](https://github.com/BeBecpp) · [Team](https://notfound404.asuu.app/)
+<br/>
+
+<a href="https://bebecpp.github.io/my_blog/">
+  <img src="https://img.shields.io/badge/Portfolio-bebecpp.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://github.com/BeBecpp?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://notfound404.asuu.app/">
+  <img src="https://img.shields.io/badge/Team-NOtFound__404-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-Builder-00b894?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-CTF-ff4757?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend-Clean_UI-0984e3?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-Webcam_Apps-f39c12?style=flat-square" />
+<img src="https://img.shields.io/badge/Mongolia-Darkhan-6c5ce7?style=flat-square" />
 
 </div>
 
@@ -16,111 +34,29 @@ I build AI products, computer vision experiments, CTF tools, and interactive web
 
 ## About Me
 
-I am focused on building practical technology projects and improving through real work.
+I am a high school AI and cybersecurity builder from Mongolia.
 
-I like projects that combine:
+I learn by building real projects, joining competitions, solving technical challenges, and improving every project step by step.
 
-- useful AI products
-- computer vision and interactive interfaces
-- CTF and security-minded engineering
-- clean frontend experiences
-- tools for students and local users
+### What I Build
 
----
-
-## My Builder Story
-
-I started with programming and problem solving, then became more interested in AI, cybersecurity, web development, and product building.
-
-Now I learn by shipping projects. Some projects are experiments, some are serious prototypes, but each one helps me improve how I design, build, explain, and polish software.
+- AI assistants and learning tools
+- Computer vision and gesture-based web apps
+- CTF / cybersecurity utilities
+- Backend-connected prototypes
+- Clean interactive frontend projects
+- Tools for students and local users
 
 ---
 
-## Featured Projects
-
-### HuruInk
-
-**Air drawing with hand gestures**
-
-HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures and webcam tracking.
-
-**Why I built it:**  
-I wanted to build something visual, fun, and technically challenging while exploring hand tracking, real-time interaction, and creative UI.
-
-[Repository](https://github.com/BeBecpp/HuruInk)
-
----
-
-### TaliinAtlas
-
-**AI learning map platform**
-
-TaliinAtlas turns confusing topics and learning goals into visual knowledge maps.
-
-**Why I built it:**  
-Many students do not fail because they lack information. They fail because information is unstructured and hard to prioritize.
-
-[Live Demo](https://taliin-atlas.vercel.app/)
-
----
-
-### Store AI Assistant
-
-**AI chatbot for small online stores**
-
-Store AI Assistant is an AI chatbot that answers customer questions using product catalog data instead of guessing.
-
-**Why I built it:**  
-Small online stores need simple, useful support tools that can answer product questions clearly and consistently.
-
-[Repository](https://github.com/BeBecpp/Store_AI_Assistant)
-
----
-
-### Aura Guide
-
-**Assistive technology concept**
-
-Aura Guide explores how sensors, Bluetooth communication, mobile software, and voice feedback can help visually impaired users detect obstacles.
-
-**Why I built it:**  
-I wanted to explore technology that can help solve real-world accessibility problems, especially with local language support.
-
-[Repository](https://github.com/BeBecpp/Aura_Guide)
-
----
-
-### MoodMeal AI
-
-**Mongolian recipe chatbot**
-
-MoodMeal AI recommends meals based on mood, ingredients, weather, meal time, and serving count.
-
-**Why I built it:**  
-I wanted to build an AI app that feels useful for local users, not just a generic chatbot.
-
-[Repository](https://github.com/BeBecpp/MoodMeal)
-
----
-
-### Crypto Tool
-
-**CTF cryptography helper**
-
-Crypto Tool is a beginner-friendly toolkit for solving common decoding and cryptography challenges.
-
-**Why I built it:**  
-As a CTF player, I wanted a simple tool that helps with repeated crypto workflows.
-
-[Repository](https://github.com/BeBecpp/Crypto-tool)
-
----
-
-## Contribution Activity
+## GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeBecpp&theme=github-compact&hide_border=true&area=true&custom_title=BeBecpp%20Contribution%20Activity" alt="BeBecpp Contribution Activity" />
+<img src="https://img.shields.io/badge/Public_Repositories-20-2ea44f?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Profile_Stars-23-f1c40f?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Followers-7-3498db?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Security_Advisory-1-e74c3c?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -136,7 +72,7 @@ As a CTF player, I wanted a simple tool that helps with repeated crypto workflow
 
 </div>
 
-### AI / Product
+### AI / Backend / Product
 
 <div align="center">
 
@@ -144,13 +80,110 @@ As a CTF player, I wanted a simple tool that helps with repeated crypto workflow
 
 </div>
 
-### Web / Security
+### Web / Security / Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tailwind,git,github,linux,vscode,bash" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-61dafb?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20Flask%20%7C%20FastAPI-3776ab?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-CTF%20%7C%20Crypto%20%7C%20Scripting-ff4757?style=flat-square" />
+<img src="https://img.shields.io/badge/Product-UI%20%7C%20README%20%7C%20Deploy-2ecc71?style=flat-square" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### HuruInk
+
+**Air drawing with hand gestures**
+
+HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures and webcam tracking.
+
+<img src="https://img.shields.io/badge/Computer_Vision-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Webcam_Tracking-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Interactive_UI-222?style=flat-square" />
+
+[Repository](https://github.com/BeBecpp/HuruInk)
+
+---
+
+### TaliinAtlas
+
+**AI learning map platform**
+
+TaliinAtlas turns confusing topics and learning goals into visual knowledge maps, helping students understand what to learn first and how ideas connect.
+
+<img src="https://img.shields.io/badge/AI_Learning-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Knowledge_Maps-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Student_Tools-222?style=flat-square" />
+
+[Live Demo](https://taliin-atlas.vercel.app/)
+
+---
+
+### Store AI Assistant
+
+**AI chatbot for small online stores**
+
+Store AI Assistant answers customer questions using product catalog data instead of guessing.
+
+<img src="https://img.shields.io/badge/AI_Assistant-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Product_Data-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Small_Business-222?style=flat-square" />
+
+[Repository](https://github.com/BeBecpp/Store_AI_Assistant)
+
+---
+
+### Aura Guide
+
+**Assistive technology concept**
+
+Aura Guide explores how sensors, Bluetooth communication, mobile software, and voice feedback can help visually impaired users detect obstacles.
+
+<img src="https://img.shields.io/badge/Assistive_Tech-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Accessibility-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice_Feedback-222?style=flat-square" />
+
+[Repository](https://github.com/BeBecpp/Aura_Guide)
+
+---
+
+### MoodMeal AI
+
+**Mongolian recipe assistant**
+
+MoodMeal AI recommends meals based on mood, ingredients, weather, meal time, and serving count.
+
+<img src="https://img.shields.io/badge/AI_Recommendation-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Mongolian_App-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Flask_SQLite-222?style=flat-square" />
+
+[Repository](https://github.com/BeBecpp/MoodMeal)
+
+---
+
+### Crypto Tool
+
+**CTF cryptography helper**
+
+Crypto Tool is a beginner-friendly toolkit for solving common decoding and cryptography challenges.
+
+<img src="https://img.shields.io/badge/CTF-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Cryptography-222?style=flat-square" />
+<img src="https://img.shields.io/badge/Security_Tooling-222?style=flat-square" />
+
+[Repository](https://github.com/BeBecpp/Crypto-tool)
 
 ---
 
@@ -168,32 +201,12 @@ CTF helps me build a stronger security mindset, debug under pressure, break comp
 
 ## Current Focus
 
-### AI Products
-
-Building AI tools with backend logic, validation, and useful user experience.
-
-### Computer Vision
-
-Exploring gesture-based interfaces, hand tracking, and creative browser interactions.
-
-### Cybersecurity
-
-Practicing CTF, cryptography, web security basics, and problem solving.
-
-### Hackathons
-
-Preparing for international hackathons and builder communities.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+| Area | Focus |
+|---|---|
+| **AI Products** | Building useful AI tools with backend logic and validation |
+| **Computer Vision** | Exploring hand tracking, gestures, and browser-based interaction |
+| **Cybersecurity** | Practicing CTF, cryptography, scripting, and web security basics |
+| **Hackathons** | Preparing stronger prototypes for international builder communities |
 
 ---
 
@@ -204,3 +217,14 @@ I am still learning, but I am serious about building.
 I want to keep improving by joining competitions, building useful projects, and learning from stronger people.
 
 ### Built from curiosity. Improved through practice.
+
+
+Update хийх:
+
+cd ~/BeBecpp
+
+cp ~/Downloads/README_BeBecpp_stats_icons_no_graph.md README.md
+
+git add README.md
+git commit -m "Update profile README with stats and icons"
+git push origin main
