@@ -218,13 +218,3 @@ I want to keep improving by joining competitions, building useful projects, and 
 
 ### Built from curiosity. Improved through practice.
 
-
-Update хийх:
-
-cd ~/BeBecpp
-
-cp ~/Downloads/README_BeBecpp_stats_icons_no_graph.md README.md
-
-git add README.md
-git commit -m "Update profile README with stats and icons"
-git push origin main
