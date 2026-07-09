@@ -274,7 +274,7 @@ CURRENT OBJECTIVE : Build better projects
 
 <div align="center">
 
-github-snake.svg
+<img src="https://raw.githubusercontent.com/BeBecpp/BeBecpp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
