@@ -274,21 +274,10 @@ CURRENT OBJECTIVE : Build better projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BeBecpp/BeBecpp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+github-snake.svg
 
 </div>
 
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BeBecpp&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-
-</div>
-
----
 
 ## Connect
 
