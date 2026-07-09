@@ -1,220 +1,306 @@
+<!-- MATRIX PROFILE README -->
+
 <div align="center">
 
-# Hi, I'm Bayarbayasgalan Enkhtulga
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b16,100:00ff66&height=180&section=header&text=NERO_404&fontSize=55&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Development&descAlignY=55&descSize=16" />
 
-### BeBe / Nero_404
+</div>
 
-**AI Engineer · Cybersecurity Builder · Frontend Developer**
+<div align="center">
 
-I build practical AI tools, CTF/security utilities, computer vision experiments, and clean web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=850&lines=Hello%2C+I+am+Bayarbayasgalan+Enkhtulga;Also+known+as+Nero_404+%2F+BeBe;AI+Engineering+%E2%80%A2+Cybersecurity+%E2%80%A2+Full-Stack+Development;Building+real+projects%2C+tools%2C+and+systems;Learning+deeply.+Shipping+fast.+Improving+daily.)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-<a href="https://bebecpp.github.io/my_blog/">
-  <img src="https://img.shields.io/badge/Portfolio-bebecpp.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
-<a href="https://github.com/BeBecpp?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://notfound404.asuu.app/">
-  <img src="https://img.shields.io/badge/Team-NOtFound__404-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</a>
+<div align="center">
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI-Builder-00b894?style=flat-square" />
-<img src="https://img.shields.io/badge/Cybersecurity-CTF-ff4757?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend-Clean_UI-0984e3?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer_Vision-Webcam_Apps-f39c12?style=flat-square" />
-<img src="https://img.shields.io/badge/Mongolia-Darkhan-6c5ce7?style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=BeBecpp&label=SYSTEM%20VISITS&color=00ff66&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/BeBecpp?label=FOLLOWERS&style=for-the-badge&color=00ff66&labelColor=000000)
+![GitHub Stars](https://img.shields.io/github/stars/BeBecpp?label=STARS&style=for-the-badge&color=00ff66&labelColor=000000)
 
 </div>
 
 ---
+
+```txt
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ACCESS GRANTED                                             │
+│   USER: Bayarbayasgalan Enkhtulga                            │
+│   ALIAS: Nero_404 / BeBe                                     │
+│   MODE: Builder                                              │
+│   FOCUS: AI Engineering, Cybersecurity, Full-Stack Systems    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ## About Me
 
-I am a high school AI and cybersecurity builder from Mongolia.
+I am **Bayarbayasgalan Enkhtulga**, also known online as **Nero_404** and **BeBe**.
 
-I learn by building real projects, joining competitions, solving technical challenges, and improving every project step by step.
+I am a student developer from Mongolia focused on building practical software, AI-powered tools, cybersecurity projects, and full-stack web applications.
 
-### What I Build
+I like working on real projects, solving hard problems, learning how systems work under the hood, and turning ideas into usable products.
 
-- AI assistants and learning tools
-- Computer vision and gesture-based web apps
-- CTF / cybersecurity utilities
-- Backend-connected prototypes
-- Clean interactive frontend projects
-- Tools for students and local users
+```txt
+Current path:
+> AI Engineering
+> Cybersecurity
+> Full-Stack Development
+> CTF / OSINT / Security Research
+> Algorithms and Problem Solving
+```
 
 ---
 
-## GitHub Snapshot
+## Current Mission
+
+```txt
+[01] Build useful AI tools
+[02] Improve as a full-stack developer
+[03] Practice cybersecurity through CTFs
+[04] Learn algorithms deeply
+[05] Create projects that actually work
+[06] Represent Mongolia in international tech spaces
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Public_Repositories-20-2ea44f?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Profile_Stars-23-f1c40f?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Followers-7-3498db?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Security_Advisory-1-e74c3c?style=for-the-badge&logo=github" />
-
-</div>
-
----
-
-## Skills
 
 ### Languages
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff66)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff66)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff66)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff66)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff66)
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+### Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff66)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff66)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff66)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff66)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff66)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff66)
+
+### Backend / Database
+
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff66)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff66)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff66)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00ff66)
+
+### AI / Tools / Security
+
+![AI](https://img.shields.io/badge/AI_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00ff66)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff66)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff66)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff66)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff66)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff66)
 
 </div>
 
-### AI / Backend / Product
+---
+
+## Skill Matrix
+
+```txt
+AI Engineering        █████████░░░  75%
+Full-Stack Dev        ██████████░░  80%
+Cybersecurity         ████████░░░░  70%
+Python                █████████░░░  75%
+Web Development       ██████████░░  80%
+Algorithms            ███████░░░░░  60%
+CTF / OSINT           ████████░░░░  70%
+Problem Solving       █████████░░░  75%
+```
+
+---
+
+## Main Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### AI Engineering
+
+I am interested in building AI-powered tools that solve real problems.
+
+```txt
+> AI APIs
+> Automation
+> Prompt engineering
+> Problem-solving agents
+> Developer tools
+```
+
+</td>
+<td width="50%">
+
+### Cybersecurity
+
+I practice cybersecurity through CTFs, OSINT, cryptography, forensics, and web security.
+
+```txt
+> CTF
+> OSINT
+> Web security
+> Cryptography
+> Digital forensics
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Full-Stack Development
+
+I build frontend and backend systems with clean logic and practical structure.
+
+```txt
+> React / Next.js
+> Laravel
+> REST APIs
+> MySQL
+> UI implementation
+```
+
+</td>
+<td width="50%">
+
+### Algorithms
+
+I practice LeetCode-style problems to improve logical thinking and coding speed.
+
+```txt
+> Data structures
+> Dynamic programming
+> Graphs
+> Recursion
+> Optimization
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects I Like Building
+
+```txt
+┌─ AI Tools
+│  └─ Apps that use AI to automate work or solve problems
+│
+├─ Security Tools
+│  └─ CTF utilities, OSINT helpers, and analysis scripts
+│
+├─ Web Apps
+│  └─ Full-stack systems with real backend logic
+│
+├─ Developer Tools
+│  └─ Scripts and utilities that make coding faster
+│
+└─ Research Projects
+   └─ Experiments with math, AI, algorithms, and systems
+```
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,sqlite,react,nextjs" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BeBecpp&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeBecpp&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&text_color=ffffff" />
 
 </div>
-
-### Web / Security / Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind,git,github,linux,vscode,bash" />
+<img width="98%" src="https://streak-stats.demolab.com?user=BeBecpp&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" />
 
 </div>
 
-<br/>
+---
+
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-61dafb?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Python%20%7C%20Flask%20%7C%20FastAPI-3776ab?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-CTF%20%7C%20Crypto%20%7C%20Scripting-ff4757?style=flat-square" />
-<img src="https://img.shields.io/badge/Product-UI%20%7C%20README%20%7C%20Deploy-2ecc71?style=flat-square" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeBecpp&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## Featured Projects
+## GitHub Trophies
 
-### HuruInk
+<div align="center">
 
-**Air drawing with hand gestures**
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=BeBecpp&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 
-HuruInk is a browser-based computer vision drawing app that lets users draw on a digital canvas using hand gestures and webcam tracking.
-
-<img src="https://img.shields.io/badge/Computer_Vision-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Webcam_Tracking-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Interactive_UI-222?style=flat-square" />
-
-[Repository](https://github.com/BeBecpp/HuruInk)
+</div>
 
 ---
 
-### TaliinAtlas
+## Terminal
 
-**AI learning map platform**
+```bash
+nero@github:~$ whoami
+Bayarbayasgalan Enkhtulga
 
-TaliinAtlas turns confusing topics and learning goals into visual knowledge maps, helping students understand what to learn first and how ideas connect.
+nero@github:~$ cat focus.txt
+AI Engineering
+Cybersecurity
+Full-Stack Development
+CTF
+Algorithms
+Real-world projects
 
-<img src="https://img.shields.io/badge/AI_Learning-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Knowledge_Maps-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Student_Tools-222?style=flat-square" />
+nero@github:~$ ./mission.sh
+Learning...
+Building...
+Breaking problems down...
+Shipping projects...
+Improving every day...
 
-[Live Demo](https://taliin-atlas.vercel.app/)
-
----
-
-### Store AI Assistant
-
-**AI chatbot for small online stores**
-
-Store AI Assistant answers customer questions using product catalog data instead of guessing.
-
-<img src="https://img.shields.io/badge/AI_Assistant-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Product_Data-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Small_Business-222?style=flat-square" />
-
-[Repository](https://github.com/BeBecpp/Store_AI_Assistant)
-
----
-
-### Aura Guide
-
-**Assistive technology concept**
-
-Aura Guide explores how sensors, Bluetooth communication, mobile software, and voice feedback can help visually impaired users detect obstacles.
-
-<img src="https://img.shields.io/badge/Assistive_Tech-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Accessibility-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Voice_Feedback-222?style=flat-square" />
-
-[Repository](https://github.com/BeBecpp/Aura_Guide)
+nero@github:~$ status
+ONLINE
+```
 
 ---
 
-### MoodMeal AI
+## Connect With Me
 
-**Mongolian recipe assistant**
+<div align="center">
 
-MoodMeal AI recommends meals based on mood, ingredients, weather, meal time, and serving count.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff66)](https://bebecpp.github.io/my_blog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/bayarbayasgalan-enkhtulga-2219a13b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff66)](https://www.instagram.com/programmerbebe/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff66)](https://github.com/BeBecpp)
 
-<img src="https://img.shields.io/badge/AI_Recommendation-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Mongolian_App-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Flask_SQLite-222?style=flat-square" />
-
-[Repository](https://github.com/BeBecpp/MoodMeal)
-
----
-
-### Crypto Tool
-
-**CTF cryptography helper**
-
-Crypto Tool is a beginner-friendly toolkit for solving common decoding and cryptography challenges.
-
-<img src="https://img.shields.io/badge/CTF-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Cryptography-222?style=flat-square" />
-<img src="https://img.shields.io/badge/Security_Tooling-222?style=flat-square" />
-
-[Repository](https://github.com/BeBecpp/Crypto-tool)
+</div>
 
 ---
 
-## Experience
+<div align="center">
 
-### NOtFound_404
+```txt
+01001110 01000101 01010010 01001111 01011111 00110100 00110000 00110100
+```
 
-**CTF Team Captain**
+**Learning deeply. Building seriously. Improving daily.**
 
-I lead a junior CTF team focused on cybersecurity challenges, technical problem solving, and competition practice.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:003b16,100:000000&height=120&section=footer" />
 
-CTF helps me build a stronger security mindset, debug under pressure, break complex problems into smaller parts, and collaborate with teammates.
-
----
-
-## Current Focus
-
-| Area | Focus |
-|---|---|
-| **AI Products** | Building useful AI tools with backend logic and validation |
-| **Computer Vision** | Exploring hand tracking, gestures, and browser-based interaction |
-| **Cybersecurity** | Practicing CTF, cryptography, scripting, and web security basics |
-| **Hackathons** | Preparing stronger prototypes for international builder communities |
-
----
-
-## Personal Statement
-
-I am still learning, but I am serious about building.
-
-I want to keep improving by joining competitions, building useful projects, and learning from stronger people.
-
-### Built from curiosity. Improved through practice.
-
+</div>
