@@ -268,17 +268,6 @@ CURRENT OBJECTIVE : Build better projects
 
 </div>
 
----
-
-## Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BeBecpp/BeBecpp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-
 ## Connect
 
 <div align="center">
