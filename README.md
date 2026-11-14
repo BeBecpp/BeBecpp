@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm BeBe 👋
+# Hey, I'm NERO 👋
 
 ### Founder. Engineer. Builder.
 
